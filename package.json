@@ -1,0 +1,26 @@
+{
+  "name": "wk12bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^7.2.0",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Tim/wk12bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Tim/wk12bamazon/issues"
+  },
+  "homepage": "https://github.com/Code-Tim/wk12bamazon#readme"
+}
